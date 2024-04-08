@@ -1,4 +1,4 @@
-# IBM-LAB-Data-Science-Ecosystem-
+# IBM LAB Data Science Ecosystem
 
 Lab from Tools for Data Science
 
